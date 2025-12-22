@@ -1,9 +1,16 @@
 ---
-weight: 99
-description: "Esmeralda"
-featured_image: "/images/esmeralda.jpg"
-title: "Chapter VI: Esmeralda"
-read_more_copy: "Lesen Sie mehr auf unserer Website"
-link: "https://agro-flor.com/vogelschutznetz.html"
+weight: 4
+featured_image: "/images/Vogelschutz Baum.jpg"
+alt: "grünes Vogelschutznetz auf Bäumen"
+read_more_copy: "Zu unserem Onlineshop"
+link: "https://agroflor.shop/"
 ---
-Lesen Sie mehr auf der Website von Agroflor
+
+
+
+Kaufen Sie  direkt in unserem Onlineshop – https://agroflor.shop/
+
+Oder fragen  Sie uns an, wenn Ihre gewünschte Größe nicht im Shop verfügbar ist:
+
+[office@agroflor.at]()
+
